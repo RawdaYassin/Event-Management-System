@@ -1,0 +1,6 @@
+EV2
+Event Title: Smart Software Development Course
+Event Date: September 5-7, 2023
+Venue: Modern Technology Center
+Cost: $500 per participant
+Description: An intensive training event focusing on enhancing smart programming skills and utilizing the latest technologies in software development. Participants will engage in workshops and sessions covering AI, machine learning, and cutting-edge development tools.
